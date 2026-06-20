@@ -107,4 +107,3 @@ Goal/
 
 
 
-To add it: go to your repo → "Add file" → "Create new file" → name it `README.md` → paste the content → commit.
